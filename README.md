@@ -1,9 +1,9 @@
 <!-- 🌟 Profile Views Badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rupesh2000.Rupesh2000" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Paresh392.Paresh392" />
 
 <!-- 🧠 Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&color=00C0FF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+I'm+Rupesh+Kumar!;+Software+Developer+💻;+Full+Stack+Enthusiast!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&color=00C0FF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+I'm+Paresh+Kumar!;+Software+Developer+💻;+Full+Stack+Enthusiast!;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💡 Passionate about building efficient, scalable web apps with modern tech stacks</h3>
